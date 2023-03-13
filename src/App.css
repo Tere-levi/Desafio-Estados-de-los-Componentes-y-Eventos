@@ -1,0 +1,11 @@
+
+body {
+    margin: 70px;
+  }
+  
+  form {
+    max-width: 70%;
+  }
+  .alert {
+    max-width: 100%;
+  }
